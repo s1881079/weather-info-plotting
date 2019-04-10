@@ -26,7 +26,7 @@ python3 task1_plenty.py
 
 
 result figure
-![Alt text](rst_figs/multi_line.jpg?raw=true "multiline_fig")
+![Alt text](./rst_figs/multi_line.jpg?raw=true "multiline_fig")
 
 **plotting whether information**
 
