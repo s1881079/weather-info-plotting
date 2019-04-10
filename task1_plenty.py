@@ -58,7 +58,7 @@ def plotAllPlenty(plenty_data):
     
 if __name__ == '__main__':
     #change workspace to proper file directory
-    workspace = '/home/anam/tigis/prac2'
+    workspace = os.getcwd()
     os.chdir(workspace)
     plenty_dir = 'plenty.data'
     

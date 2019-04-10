@@ -11,7 +11,7 @@ import os
 if __name__ == '__main__':
     
     #define the workpath
-    workspace = '/home/s1881079/tigis/prac2'
+    workspace = os.getcwd()
     os.chdir(workspace)
     jcmb_name = 'JCMB_2011.csv'
     
