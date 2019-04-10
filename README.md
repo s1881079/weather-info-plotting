@@ -2,19 +2,19 @@
 
 This is a course work of Technological Infrastructures for GIS
 
-##Data
+## Data
 
-###plenty.data
+### plenty.data
 
 simple x-y coordinates for plotting test using matplotlib
 
-###JCMB_2011.csv
+### JCMB_2011.csv
 
 whether data per minute from 2011.1 - 2011.10
 
-##Examples
+## Examples
 
-###plotting multi-lines
+### plotting multi-lines
 
 command line
 
@@ -24,7 +24,7 @@ python3 task1_plenty.py
 
 result figure
 
-###plotting whether information
+### plotting whether information
 
 command line
 
@@ -34,6 +34,6 @@ python3 tk2_jcmb.py
 
 result figure
 
-##Author
+## Author
 
-* **Louise Liu
+* **Louise Liu**
