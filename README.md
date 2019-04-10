@@ -34,11 +34,13 @@ result figure
 run
 
 ```
-python3 tk2_jcmb.py
+python3 t2_jcmb.py
 ```
 
 result figure
 
+![Alt text](./rst_figs/multi_weather.PNG?raw=true)
+![Alt text](./rst_figs/windplot.PNG?raw=true)
 
 ## Author
 
